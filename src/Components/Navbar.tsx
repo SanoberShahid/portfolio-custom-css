@@ -12,7 +12,7 @@ const Navbar = () => {
   return (
     <div className="navbar-container">
       <div className="navbar">
-        <div className="navbar-brand">Sheikh's</div>
+        <div className="navbar-brand">Sheikhs</div>
 
         {/* Large Screen Navbar Links */}
         <ul className={`navbar-links ${isMenuOpen ? 'open' : ''}`}>
